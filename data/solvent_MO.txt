@@ -10,6 +10,18 @@ solvent_features_dict = {
     'MOEMC': np.array([1.131, -7.258]),
     'TFP': np.array([0.620, -8.791]),
     'EA': np.array([0.450, -7.255]),
+    'MA': np.array([0.384, -7.321]),
+    'FEC': np.array([0.517, -8.440]),
+    'DOL': np.array([2.609, -6.851]),
+    '2-MeTHF': np.array([2.395, -6.452]),
+    'DMM': np.array([1.896, -6.536]),
+    'Freon 11': np.array([-1.752, -8.828]),
+    'Methylene chloride': np.array([-0.436, -8.426]),
+    'THF': np.array([2.382, -6.460]),
+    'Toluene': np.array([0.101, -6.404]),
+    'Sulfolane': np.array([1.401, -7.525]),
+    '2-Glyme': np.array([2.147, -6.832]),
+    '3-Glyme': np.array([2.026, -6.840]),
     '4-Glyme': np.array([1.947, -6.848]),
     '3-Me-2-Oxazolidinone': np.array([1.616, -6.661]),
     '3-MeSulfolane': np.array([1.341, -7.489]),
@@ -24,6 +36,6 @@ solvent_features_dict = {
     'Pseudocumeme': np.array([0.285, -6.037]),
     'TEOS': np.array([1.799, -7.378]),
     'm-Xylene': np.array([0.103, -6.276]),
-    'o-Xylene': np.array([0.204, -6.245])
+    'o-Xylene': np.array([0.204, -6.245]),
 }
-                                                           
+                                                        
